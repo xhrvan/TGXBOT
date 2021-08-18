@@ -1,7 +1,6 @@
 {
-  "name": "𝕴tß 𝕷êgëñd𝕭øt 🇮🇳",
-  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ ℓєgєи∂. Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://telegra.ph/file/9144a914bce520f5bdf74.jpg",
+  "name": "THE TGXBOT 🇮🇳",
+  "description": "THE BEST USERBOT MADE BY ❤️. Made with Python Language With Hardwork... ❤ ",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +8,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "repository": "https://github.com/XHRVAN/TGXBOT/",
+  "website": "https://github.com/XHRVAN/TGXBOT/",
+  "success_url": "https://t.me/Tgx_Userbot",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,13 +22,13 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "𝕴tß 𝕷êgëñd 🇮🇳",
+      "description": "Fill your Full name. By default ",
+      "value": "THE TGXUSERBOT 🇮🇳",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "𝕷êgëñd𝕭øt ιѕ αℓινє 🇮🇳",
+      "description": "Set Custom Alive Message When entering .alive Or .tgx  Command.",
+      "value": "TGXBOT IS ALIVE 🇮🇳",
       "required": false
     },
     "AWAKE_PIC": {
