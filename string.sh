@@ -1,5 +1,5 @@
 #!/bin/bash
-#   Copyright (C) 2021 LEGEND-OS
+#   Copyright (C) 2021 XHRVAN
 #
 #   Poject VΛDΣЯ is free software: 
 #   you can redistribute it and/or modify it under the terms of the GNU General Public License 
@@ -23,8 +23,8 @@ echo """
 ┃┏━┓┃┗┛┃┃┃┏┓┣╋╋┫┗┛┃┗┛┃┗┓
 ┗┛ ┗┻━━┻┛┗┛┗┻┛┗┻━━┻━━┻━┛
 
-Legendary LEGENDBOT
-@LEGEND SUPPORT
+Legendary TGXBOT
+@TGXBOT_CHAT
 """
 
 python3 string_session.py
