@@ -23,7 +23,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default ",
-      "value": "THE TGXUSERBOT 🇮🇳",
+      "value": "TgXbot🇮🇳",
       "required": false
     },
     "ALIVE_MSG": {
@@ -43,7 +43,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "ι αм ℓєgєи∂ ϐєϲαυѕє ι αм υѕєя οƒ 𝕷êgëñd𝕭øt",
+      "value": "ι αм ℓєgєи∂ ϐєϲαυѕє ι αм υѕєя οƒ ƬɠӾẞø𝚝",
       "required": false
     },
     "PMPERMIT_PIC": {
@@ -53,7 +53,7 @@
     },
     "CUSTOM_PMPERMIT": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ ℓєgєи∂ϐοτ.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ ƬɠӾẞø𝚝.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
       "required": false
     },
     "MAX_FLOOD_IN_P_M_s": {
@@ -168,7 +168,7 @@
     },
     "EMOJI_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "⚜️",
+      "value": "🇮🇳",
       "required": false
     },
     "TZ": {
