@@ -33,12 +33,12 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
-      "value": "https://telegra.ph/file/805dfd46e7019bb2a0b80.jpg",
+      "value": "https://telegra.ph/file/46382df423d77941181f7.jpg",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
-      "value": "https://telegra.ph/file/fbbef13c1a2154fd2c0b0.jpg",
+      "value": "https://telegra.ph/file/46382df423d77941181f7.jpg",
       "required": false
     },
     "BIO_MSG": {
