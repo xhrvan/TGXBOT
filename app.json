@@ -166,11 +166,6 @@
       "value": "2",
       "required": true
     },
-    "EMOJI_IN_HELP": {
-      "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "🇮🇳",
-      "required": false
-    },
     "TZ": {
       "description": "Required for Correct Time for autopic get from http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
       "value": "Asia/Kolkata",
