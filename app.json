@@ -28,7 +28,7 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .tgx  Command.",
-      "value": "TGXBOT IS ALIVE 🇮🇳",
+      "value": "τнє τgxυѕєяϐοτ....",
       "required": false
     },
     "AWAKE_PIC": {
